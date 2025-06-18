@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React JS, Express JS, Python, DSA, Web Technologies**
 
-- 📫 How to reach me **darshankumar7478@gmail.com**
+- 📫 How to reach out me *https://darshanmkportfolio.netlify.app/*
 
 - ⚡ Fun fact **Coding is Dead...😄**
 
